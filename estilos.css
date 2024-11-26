@@ -1,0 +1,14 @@
+:root {
+    --bg-color: #243642;
+    --primary-color: #387478;
+    --secondary-color: #629584;
+    --highlight-color: #E2F1E7;
+    background-color: var(--bg-color);
+    color: var(--highlight-color);
+    margin: 0;
+    border: 1px solid var(--highlight-color);
+    border-collapse: collapse;
+
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
